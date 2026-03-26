@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "genre": "Programming",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas & Andrew Hunt",
+    "year": 1999,
+    "genre": "Programming",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "Design Patterns",
+    "author": "Gang of Four",
+    "year": 1994,
+    "genre": "Software Engineering",
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "year": 2015,
+    "genre": "JavaScript",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "year": 1999,
+    "genre": "Programming",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Algorithms",
+    "author": "Cormen et al.",
+    "year": 2009,
+    "genre": "Computer Science",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "The Art of Computer Programming",
+    "author": "Donald Knuth",
+    "year": 1968,
+    "genre": "Computer Science",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "year": 2015,
+    "genre": "Career",
+    "rating": 4.5
+  }
+]
