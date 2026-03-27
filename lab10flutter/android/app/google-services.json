@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655211201224",
+    "project_id": "loginwithfirebase-a1084",
+    "storage_bucket": "loginwithfirebase-a1084.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655211201224:android:33a5e7b63e7877215c9bfd",
+        "android_client_info": {
+          "package_name": "com.example.lab10flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsM-BaHKb-euMzwDJ2VZGHdq7b5_w8AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
